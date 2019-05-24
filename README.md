@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # simple-java-maven-app
 
 This repository is for the
@@ -17,3 +18,6 @@ the "Deliver" stage of your Pipeline.
 =======
 # projectmaven
 >>>>>>> 8a034865604ecf5439d34611df709d3313fcc54f
+=======
+# basha
+>>>>>>> e2dfec33ce23e201fae01e85beb9e867a3ce56a9
